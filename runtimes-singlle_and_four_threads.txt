@@ -1,0 +1,2 @@
+Single thread: 18 minutes 2.210 seconds
+Four threads: 24 minutes 4.341 seconds 
