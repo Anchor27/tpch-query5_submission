@@ -28,6 +28,6 @@ This is the project submission, made by doing git clone of **https://github.com/
     ├── main.cpp
     └── query5.cpp
 ```
-## Important Node
+## Important Note
 If we see the runtimes of 4 thread and 1 thread operations, we find that the 1-threaded one is faster than 4-threaded one. This seemed unusual to me in the beginning. Therefore, I decided to do some experimentations and come up with the reason for it.
 The entire reasoning is in the pdf ```issue_report.pdf```.
