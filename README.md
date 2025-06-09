@@ -1,5 +1,12 @@
 # tpch-query5_submission
 
+# Details
+**Name:** Aryan Joshi    
+**E-Mail:** aryan.joshi.cs@gmail.com
+**Linkedin:** https://www.linkedin.com/in/aryan--joshi/
+**Portfolio:** https://sites.google.com/view/aryan-joshi/
+**Resume:** 
+
 ## Introduction
 This is the project submission, made by doing git clone of **https://github.com/zettagrv/tpch-query5**
 
